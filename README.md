@@ -1,4 +1,5 @@
 ### Hi there 👋
+![logo](https://github.com/1Jeevana/1Jeevana/blob/main/gitbg.jpg)
 <h1 align="center">Hi 👋, I'm Jeevana Nelli</h1>
 <h3 align="center">An enthusiastic Software developer from India</h3>
 
